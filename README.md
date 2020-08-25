@@ -52,6 +52,7 @@
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
 * [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
+* [ColorsWall](https://colorswall.com/) - Place to store your color palettes.
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
@@ -111,7 +112,7 @@
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users. 
+* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
